@@ -27,7 +27,7 @@ O exemplo a seguir mostra a estrutura de um modelo no formato JSON com todas as 
 O exemplo a seguir mostra a estrutura de um modelo no formato YAML com todas as seções disponíveis.
 
 ```
-![Estrutura YAML](link-para-sua-imagem.png)
+![Estrutura YAML](imagens/template_cloud_yaml.png)
 ```
 
 -----
