@@ -17,7 +17,7 @@ No entanto, à medida que você cria o modelo, pode ser útil usar a ordem lógi
 O exemplo a seguir mostra a estrutura de um modelo no formato JSON com todas as seções disponíveis.
 
 ```
-![Estrutura JSON](imagens/template_cloud.png)
+![Estrutura JSON](https://github.com/BarbaraRocha12/desafio-aws-cloud-formation/blob/ae252c6dd80a5dabe1c913ba561648d3012f3b3e/imagens/template_cloud.png)
 ```
 
 
