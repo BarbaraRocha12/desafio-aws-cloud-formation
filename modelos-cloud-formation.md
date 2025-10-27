@@ -45,7 +45,7 @@ Nos modelos formatados em YAML, é possível incluir comentários em linha usand
 O exemplo a seguir mostra um modelo YAML com comentários em linha.
 
 ```
-![Exemplo Comentários YAML](link-para-sua-imagem.png)
+![Exemplo Comentários YAML](imagens/comentario_cloud_yaml.png)
 ```
 -----
 
