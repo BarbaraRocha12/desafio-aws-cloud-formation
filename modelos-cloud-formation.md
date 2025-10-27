@@ -17,7 +17,7 @@ No entanto, à medida que você cria o modelo, pode ser útil usar a ordem lógi
 O exemplo a seguir mostra a estrutura de um modelo no formato JSON com todas as seções disponíveis.
 
 ```
-![Estrutura JSON](link-para-sua-imagem.png)
+![Estrutura JSON](imagens/template_cloud.png)
 ```
 
 
