@@ -26,11 +26,9 @@ O exemplo a seguir mostra a estrutura de um modelo no formato JSON com todas as 
 
 O exemplo a seguir mostra a estrutura de um modelo no formato YAML com todas as seções disponíveis.
 
-```
-![Estrutura YAML](imagens/template_cloud_yaml.png)
-```
 
------
+![Estrutura YAML](imagens/template_cloud_yaml.png)
+
 
 ### Comentários
 
@@ -44,10 +42,9 @@ Nos modelos formatados em YAML, é possível incluir comentários em linha usand
 
 O exemplo a seguir mostra um modelo YAML com comentários em linha.
 
-```
+
 ![Exemplo Comentários YAML](imagens/comentario_cloud_yaml.png)
-```
------
+
 
 ### Especificações de Formato
 
